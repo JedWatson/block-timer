@@ -1,0 +1,21 @@
+{
+  "name": "block-timer",
+  "version": "0.1.0",
+  "description": "Timer utility for timing blocks of code that are run one or more times",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JedWatson/block-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "benchmark",
+    "debug"
+  ],
+  "author": "Jed Watson",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/JedWatson/block-timer/issues"
+  },
+  "homepage": "https://github.com/JedWatson/block-timer"
+}
