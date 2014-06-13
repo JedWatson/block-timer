@@ -219,8 +219,13 @@ Timer.create = function() {
 	return new Timer();
 }
 
+// Returns a new Timer.Stub instance
+Timer.stub = function() {
+	return new Timer.Stub();
+}
+
 /**
- * Stub version
+ * Stub Class
  * 
  * Provides a simple way to disable the timer and remove any overhead
  * 
