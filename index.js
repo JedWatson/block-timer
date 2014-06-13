@@ -214,6 +214,11 @@ Timer.prototype.stub = function() {
 	return this;
 }
 
+// Returns a new Timer instance
+Timer.create = function() {
+	return new Timer();
+}
+
 /**
  * Stub version
  * 
