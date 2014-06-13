@@ -1,6 +1,6 @@
 {
   "name": "block-timer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Timer utility for timing blocks of code that are run one or more times",
   "main": "index.js",
   "repository": {
